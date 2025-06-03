@@ -29,7 +29,7 @@ Extracted a combination of basic and advanced features:
 # Installation
 - Clone the Repository
 ```
-git clone https://github.com/Rittik2002/plagiarism_detection_NLP.git
+git clone https://github.com/Mohankumar3124/plagiarism_detection_NLP.git
 cd plagiarism_detection_NLP
 ```
 - Install Dependencies
