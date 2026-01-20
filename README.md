@@ -37,3 +37,5 @@ cd plagiarism_detection_NLP
 pip install -r requirements.txt
 ```
 
+Application Link - https://huggingface.co/spaces/Mohan312/plagiarism_Detection
+
